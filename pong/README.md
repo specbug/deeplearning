@@ -5,7 +5,7 @@ Inspired from [this Computerphile series](https://www.youtube.com/playlist?list=
 
 A simple (squash) pong game, where the AI learns by watching you play (but not in the reinforcement learning sense, this is achieved using regression).
 
-<img src="https://github.com/specbug/PyPong/blob/master/pongAI.gif"/>
+<img src="https://github.com/specbug/deeplearning/blob/master/pong/pongAI.gif"/>
 
 
 ## Installation
